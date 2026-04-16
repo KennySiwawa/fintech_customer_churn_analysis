@@ -69,34 +69,4 @@ churn-analysis-fintech/
 
 ## 🔍 Analysis Approach
 
-1. **Data Cleaning**
-   - Checked for missing values and duplicates
-   - Validated data types and ranges
-2. **Exploratory Data Analysis (EDA)**
-   - Customer distribution analysis
-   - Churn rate calculation
-   - Feature-level exploration
-3. **Customer Segmentation Analysis**
 
-   Churn was analyzed across key dimensions:
-
-   - **Demographics:** Age groups, Gender, Geography
-   - **Financial behavior:** Account balance bands, Estimated salary
-   - **Engagement:** Active vs inactive customers, number of products
-   - **Lifecycle:** Tenure groups (early vs long-term customers)
-
-4. **SQL Analysis**
-
-   Business questions answered using SQL:
-
-   - Churn rate by country
-   - High-value customers who churned
-   - Impact of customer activity on churn
-
-5. **Dashboard (Power BI)**
-
-   Interactive dashboard includes:
-
-   - KPI cards (Churn %, Retention %, Revenue at Risk)
-   - Churn by Age, Geography, Activity
-   - Customer segmentation filters
