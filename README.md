@@ -15,6 +15,7 @@ The bank is experiencing customer churn, leading to:
 - Loss of revenue
 - Increased customer acquisition costs
 - Reduced customer lifetime value (CLV)
+- Increased operational costs associated to account closure
 
 ## 🎯 Objectives
 
@@ -47,7 +48,7 @@ churn-analysis-fintech/
 
 ## 📊 Dataset
 
-- Source: Kaggle (Bank Customer Churn Dataset)
+- Source: Kaggle (https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
 - Records: ~10,000 customers
 - Features include:
   - Demographics: Age, Gender, Geography
